@@ -7,10 +7,10 @@ message: >-
   entry will be added upon publication of the associated manuscript.
 type: software
 authors:
-  - given-names: "[Your given name]"
-    family-names: "[Your family name]"
-    affiliation: "[Your affiliation]"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - given-names: "Shafiya"
+    family-names: "Kausar"
+    affiliation: "aivancity school for Technology"
+    
 abstract: >-
   AADMN studies whether graph-based scene context improves object detection in
   crowded scenes. A lightweight YOLOv8n detector produces candidate detections;
