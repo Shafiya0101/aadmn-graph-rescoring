@@ -1,0 +1,42 @@
+# --- Safety net: keep source code, data, and weights OUT of this repo ---
+# This repository is documentation-only until publication. The patterns below
+# prevent accidentally committing the implementation, datasets, or model files.
+*.py
+*.ipynb
+*.pt
+*.pth
+*.onnx
+*.engine
+*.weights
+*.ckpt
+*.h5
+*.pkl
+*.npy
+*.npz
+datasets/
+detections_cache/
+runs/
+experiments/
+data/
+models/
+scripts/
+src/
+
+# --- Standard Python / environment artifacts ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.conda/
+.ipynb_checkpoints/
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# NOTE: figures/, docs/, README.md, LICENSE, and CITATION.cff are
+# intentionally tracked.

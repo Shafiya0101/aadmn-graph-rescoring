@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: >-
+  AADMN: Adaptive Attention-based Dynamic Mesh Networks — A Graph-based
+  Detection Re-scoring Approach for Crowded Scenes
+message: >-
+  If you reference this work, please cite it using these metadata. A BibTeX
+  entry will be added upon publication of the associated manuscript.
+type: software
+authors:
+  - given-names: "[Your given name]"
+    family-names: "[Your family name]"
+    affiliation: "[Your affiliation]"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+abstract: >-
+  AADMN studies whether graph-based scene context improves object detection in
+  crowded scenes. A lightweight YOLOv8n detector produces candidate detections;
+  a graph neural network re-scoring head refines per-box confidence using a
+  scene graph (11-feature nodes, k-NN edges, k=8) built from the detector's
+  outputs. A controlled ablation compares uniform aggregation (GraphSAGE) with
+  learned attention (GAT). Graph context improves true/false-detection
+  separation accuracy by +12.54 pp over raw detector confidence; adaptive
+  attention does not improve over uniform aggregation, a result supported by
+  mechanistic analysis of the trained attention-weight distribution.
+keywords:
+  - object detection
+  - graph neural networks
+  - graph attention networks
+  - scene graphs
+  - crowd detection
+  - CrowdHuman
+  - detection re-scoring
+  - edge deployment
+license: LicenseRef-All-Rights-Reserved
+date-released: 2026-06-04
+version: "1.0.0-prepublication"
