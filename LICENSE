@@ -1,16 +1,21 @@
-Copyright (c) 2026 [Your Name]. All rights reserved.
+MIT License
 
-This repository and all of its contents — including documentation, figures, result
-tables, and the project report — are made available for viewing and academic reference
-only.
+Copyright (c) 2026 Shafiya Kausar
 
-No permission is granted to copy, reproduce, modify, distribute, sublicense, publish, or
-create derivative works from any part of this repository, in whole or in part, by any
-means, without the prior written consent of the copyright holder.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-The source code for this project is NOT included in this repository. It is available from
-the author upon reasonable request (see docs/code-availability.md), and will be released
-under an open-source license upon publication of the associated manuscript. Until then,
-all rights are reserved.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-THE CONTENTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
