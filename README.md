@@ -164,7 +164,7 @@ published.
 
 ## License
 
-© 2026 [Your Name]. **All rights reserved.** This repository and its contents
+© 2026 Shafiya Kausar. **All rights reserved.** This repository and its contents
 (documentation, figures, and results) are provided for viewing and academic reference
 only. No copying, redistribution, or derivative works are permitted without prior
 written consent. See [LICENSE](LICENSE).
